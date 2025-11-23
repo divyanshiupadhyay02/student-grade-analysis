@@ -2,6 +2,7 @@
 
 The Student Grade Management System is a Python-based console application designed to collect student information, calculate average marks, assign grades, and generate a complete grade report.
 The project is modular, meaning different tasks are handled by separate Python files (input, database, analysis, and report), making the code clean, organized, and easy to maintain.
+
 ✨ Features
 
 Takes multiple students’ names and marks as input.
@@ -25,6 +26,7 @@ Built-in Python functions and modules
 
 Console/Terminal interface
 (No external libraries required)
+
 📥 Steps to Install & Run the Project
 1. Install Python
 
@@ -57,6 +59,7 @@ Enter student name
 Enter three marks
 
 Choose whether to add more students
+
 🧪 Instructions for Testing
 
 To test the program:
